@@ -12,9 +12,6 @@ public class public class practica_altisent
 		System.out.println("Hello World");
 	}
 
-	public static void printTwo() {
-		printOne();
-		printOne();
-	}
+	
 }
 
